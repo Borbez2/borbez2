@@ -7,6 +7,6 @@
 <!-- Optional: contribution snake (cool but slightly extra) -->
 <!--
 <p align="center">
-  <img src="https://github.com/<YOUR_USERNAME>/<YOUR_USERNAME>/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/<Borbez2>/<Borbez2>/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 -->
