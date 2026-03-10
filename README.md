@@ -4,8 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=borbez2&label=Profile%20views&color=0e75b6&style=flat" alt="borbez2 profile views" />
 </p>
 
----
-
 ## Activity Graph
 
 <p align="center">
