@@ -6,11 +6,6 @@
   <img src="https://img.shields.io/github/stars/borbez2?style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=borbez2&show_icons=true&theme=github_dark" />
-  <img src="https://streak-stats.demolab.com?user=borbez2&theme=github-dark" />
-</p>
-
 ## Activity Graph
 
 <p align="center">
