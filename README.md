@@ -11,14 +11,6 @@
   <img src="https://streak-stats.demolab.com?user=borbez2&theme=github-dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=borbez2&theme=flat&no-frame=true&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/borbez2/borbez2/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 ## Activity Graph
 
 <p align="center">
